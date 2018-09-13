@@ -3,5 +3,5 @@
 name = ["steve", "stephen", "stevey", "stephanie", "stefan"]
 
 def say_hello
-  puts "Hello #{name}!"
+  puts "Hello #[name]!"
 end
