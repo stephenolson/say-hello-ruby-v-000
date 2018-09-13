@@ -1,7 +1,7 @@
 # Build your say_hello method here
 
-name = []
+name = ["steve", "stephen", "stevey", "stephanie", "stefan"]
 
-def say_hello (name="Ruby Programmer")
+def say_hello (name)
   puts "Hello #{name}!"
 end
