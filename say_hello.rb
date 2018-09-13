@@ -2,6 +2,6 @@
 
 name = ["steve", "stephen", "stevey", "stephanie", "stefan"]
 
-def say_hello (name)
+def say_hello
   puts "Hello #{name}!"
 end
